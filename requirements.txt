@@ -1,0 +1,17 @@
+torch
+transformers
+langchain
+chromadb
+hnswlib
+faiss-cpu
+pandas
+numpy
+matplotlib
+nltk
+scikit-learn
+uvicorn
+fastapi
+datasets
+sentence-transformers
+huggingface_hub
+langchain-community
