@@ -15,3 +15,5 @@ datasets
 sentence-transformers
 huggingface_hub
 langchain-community
+gradio
+streamlit
